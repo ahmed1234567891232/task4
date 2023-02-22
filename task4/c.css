@@ -1,0 +1,140 @@
+.parent .child span{color: red;}
+.parent span {color: blue;}
+.four{color: green;}
+.title{color: green;}
+h1{
+    text-align: center;
+    border: 10px solid white;
+    text-shadow: 2px 2px 2px rgb(202, 9, 195);
+    word-spacing: 7px;
+}
+.one{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+.two{
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+.three{
+    text-transform: lowercase;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+.parent2{width: 800px;}
+.a{text-align: center;
+background-color: #eee;
+padding: 10px;
+}
+
+.b{
+    background-color: #eee;
+padding: 10px;
+margin: 5px;
+display: inline-block;
+width: 200px;
+}
+.c{
+    background-color: #eee;
+padding: 10px;
+margin: 5px;
+text-align: center;
+display: inline-block;
+width: 200px;
+}
+.d{
+    background-color: #eee;
+padding: 10px;
+margin: 5px;
+width: 200px;
+text-align: right;
+display: inline-block;
+
+}
+
+
+.e{
+    background-color: #eee;
+padding: 10px;
+margin: 5px;
+text-align: left;
+display: inline-block;
+width: 300px;
+}
+.f{
+    background-color: #eee;
+padding: 10px;
+margin: 5px;
+text-align: center;
+display: inline-block;
+width: 300px;
+}
+
+
+.g{
+    background-color: #eee;
+padding: 10px;
+margin: 5px;
+/*text-align: center;*/
+display: inline-block;
+width: 150px;
+}
+.h{
+    background-color: #eee;
+padding: 10px;
+margin: 5px;
+text-align: center;
+display: inline-block;
+width: 150px;
+}
+.i{
+    background-color: #eee;
+padding: 10px;
+margin: 5px;
+text-align: center;
+display: inline-block;
+width: 150px;
+}
+.j{
+    background-color: #eee;
+padding: 10px;
+margin: 5px;
+text-align: center;
+display: inline-block;
+width: 150px;
+}
+
+#bb{
+    border: 2px solid;
+    border-color: red blue;
+    width: auto;
+    height: 100px;
+    font-size: large;
+    font-weight: bold;
+}
+.top-left{
+    background-color: blue;
+    border: 2px solid red;
+    padding: 5px;
+}
+.bottom-left{
+    background-color: blue;
+    border: 2px solid red;
+    padding: 5px;
+}
+.top-right{
+    background-color: blue;
+    border: 2px solid red;
+    padding: 5px;
+}
+.bottom-right{
+    background-color: blue;
+    border: 2px solid red;
+    padding: 5px;
+    position: top;
+}
